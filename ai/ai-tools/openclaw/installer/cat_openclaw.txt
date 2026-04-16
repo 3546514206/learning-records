@@ -1,0 +1,9 @@
+cat << "EOF" | sudo tee openclaw.json > /dev/null
+{
+  "meta": {
+    "lastTouchedVersion": "2026.3.23",
+    "lastTouchedAt": "2026-04-02T08:03:13.356Z"
+  },
+  ...
+}
+EOF
